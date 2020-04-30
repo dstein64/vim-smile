@@ -29,7 +29,7 @@ Use one of the following package managers:
 
 ## Usage
 
-* Run `vim-smile` by issuing a `:Smile` command.
+* Run `vim-smile` with the `:Smile` command.
 
 License
 -------
