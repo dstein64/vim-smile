@@ -1,0 +1,12 @@
+*smile.txt*        Plugin with a :Smile command
+*vim-smile*
+
+Author: Daniel Steinberg - https://www.dannyadam.com
+Web: https://github.com/dstein64/vim-smile
+                                                        *:Smile*
+|vim-smile| is a Vim plugin that provides a |:Smile| command. This is an
+alternative for when vim's built-in |:smile| command is unavailable
+(e.g., |neovim|, vim<7.4.1005).
+
+============================================================================
+ vim:tw=78:ts=4:ft=help:norl:
