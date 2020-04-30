@@ -1,7 +1,7 @@
 # vim-smile
 
 `vim-smile` is a Vim plugin that provides a `:Smile` command. This is an
-alternative for when `vim`'s built-in `:smile` command in unavailable
+alternative for when `vim`'s built-in `:smile` command is unavailable
 (e.g., `neovim`, `vim<7.4.1005`).
 
 <img src="screenshot.png?raw=true" width="640"/>
