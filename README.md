@@ -8,7 +8,8 @@ alternative for when `vim`'s built-in `:smile` command is unavailable
 
 ## Installation
 
-Use one of the following package managers:
+A package manager can be used to install `vim-smile`.
+<details><summary>Examples</summary><br>
 
 * [Vim8 packages][vim8pack]:
   - `git clone https://github.com/dstein64/vim-smile ~/.vim/pack/plugins/start/vim-smile`
@@ -26,6 +27,8 @@ Use one of the following package managers:
 * [NeoBundle][neobundle]:
   - Add `NeoBundle 'dstein64/vim-smile'` to `~/.vimrc`
   - Re-open vim or execute `:source ~/.vimrc`
+
+</details>
 
 ## Usage
 
