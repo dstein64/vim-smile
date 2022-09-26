@@ -6,7 +6,7 @@
 alternative for when `vim`'s built-in `:smile` command is unavailable
 (e.g., `neovim`, `vim<7.4.1005`).
 
-<img src="screenshot.png?raw=true" width="640"/>
+<img src="https://github.com/dstein64/media/blob/main/vim-smile/screenshot.png?raw=true" width="640"/>
 
 ## Installation
 
